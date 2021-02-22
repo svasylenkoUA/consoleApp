@@ -20,8 +20,8 @@ namespace ConsoleApp1
                     string leftString = impData.Substring(0, impData.Length / 2);
                     string rightString = impData.Substring(impData.Length / 2);
 
-                    var chL = 0;
-                    var chR = 0;
+                    int chL = 0;
+                    int chR = 0;
 
                     for (int i = 0; i < leftString.Length; i++)
                     {

@@ -1,0 +1,1 @@
+dotnet run ConsoleApp1.sln
