@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\admin\\source\\repos\\ConsoleApp1\\bin\\Debug\\net5.0",
+      "nativeDebugging": true
+    },
+    "newProfile1": {
+      "commandName": "Executable"
+    }
+  }
+}
